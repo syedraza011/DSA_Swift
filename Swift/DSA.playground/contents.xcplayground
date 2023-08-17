@@ -3,5 +3,11 @@
     <pages>
         <page name='Untitled Page'/>
         <page name='removingANumberFromString'/>
+        <page name='Questions'/>
+        <page name='Reverse a string'/>
+        <page name='Palindrome'/>
+        <page name='CountVowels'/>
+        <page name='RemoveDuplicates'/>
+        <page name='Anagrams'/>
     </pages>
 </playground>
