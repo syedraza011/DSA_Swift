@@ -34,3 +34,4 @@ let sorted = str.sorted {  (char1 , char2) in
 }
 let sortedStr = String(sorted)
 print(sortedStr)
+
