@@ -7,6 +7,7 @@
 3. Create a function to count the occurrences of a specific character in a string.
 
 4. Given a string, find the first non-repeated character.
+
 5. Write a program to remove all spaces from a string.
 6. Implement a function to check if two strings are anagrams.
 7. Write a program to find the longest common prefix among an array of strings.
@@ -68,9 +69,7 @@
 10. Given an array of integers, find the majority element (appears more than n/2 times).
 11. Create a program to find the longest continuous increasing subsequence in an array.
 12. Write a program to find the shortest unsorted subarray that, when sorted, makes the entire array sorted.
-13. Implement a function to perform matrix rotation (transpose and reverse rows/columns
-
-).
+13. Implement a function to perform matrix rotation (transpose and reverse rows/columns).
 14. Given an array of integers, find the maximum product of two integers.
 15. Create a function to find the longest increasing subarray within an array.
 16. Write a program to find the longest subarray with at most k distinct characters.
