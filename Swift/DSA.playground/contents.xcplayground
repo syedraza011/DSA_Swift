@@ -9,5 +9,6 @@
         <page name='CountVowels'/>
         <page name='RemoveDuplicates'/>
         <page name='Anagrams'/>
+        <page name='Array_find_Min_max_number'/>
     </pages>
 </playground>
