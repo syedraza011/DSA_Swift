@@ -12,5 +12,6 @@
         <page name='removingANumberfromString'/>
         <page name='reversingAString'/>
         <page name='firstNon-repeatedChar'/>
+        <page name='RemoveSpacesFromString'/>
     </pages>
 </playground>

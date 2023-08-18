@@ -5,10 +5,10 @@
 1. Write a function to reverse a given string.
 2. Implement a program to check if a string is a palindrome.
 3. Create a function to count the occurrences of a specific character in a string.
-
 4. Given a string, find the first non-repeated character.
 
 5. Write a program to remove all spaces from a string.
+
 6. Implement a function to check if two strings are anagrams.
 7. Write a program to find the longest common prefix among an array of strings.
 8. Create a function to perform URL encoding, replacing spaces with "%20".
