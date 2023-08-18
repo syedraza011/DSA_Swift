@@ -14,5 +14,6 @@
         <page name='firstNon-repeatedChar'/>
         <page name='RemoveSpacesFromString'/>
         <page name='longestCommonPrefix'/>
+        <page name='TitlecaseUsingString'/>
     </pages>
 </playground>

@@ -8,7 +8,7 @@ let str = "Hello0"
 
 var dic: [String: Int] = [:] // Specify the type explicitly for better clarity
 for char in str {
-    print(dic[String(char)] )
+    print(dic[String(char)])
     if let count = dic[String(char)] {
         dic[String(char)] = count + 1
      
