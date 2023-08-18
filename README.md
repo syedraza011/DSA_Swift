@@ -6,13 +6,14 @@
 2. Implement a program to check if a string is a palindrome.
 3. Create a function to count the occurrences of a specific character in a string.
 4. Given a string, find the first non-repeated character.
-
 5. Write a program to remove all spaces from a string.
-
 6. Implement a function to check if two strings are anagrams.
-7. Write a program to find the longest common prefix among an array of strings.
-8. Create a function to perform URL encoding, replacing spaces with "%20".
+<!--7. Write a program to find the longest common prefix among an array of strings.-->
+<!---->
+<!--8. Create a function to perform URL encoding, replacing spaces with "%20".-->
+
 9. Given a string, convert it to "Title Case" (capitalize the first letter of each word).
+
 10. Write a program to determine whether two strings are rotations of each other.
 11. Implement a function to perform string pattern matching using the KMP algorithm.
 12. Create a function to convert a sentence to Pig Latin: move the first letter of each word to the end and add "ay".
