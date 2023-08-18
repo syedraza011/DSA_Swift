@@ -10,5 +10,6 @@
         <page name='RemoveDuplicates'/>
         <page name='Anagrams'/>
         <page name='Array_find_Min_max_number'/>
+        <page name='Sum_of_Even_Odd_from_Array'/>
     </pages>
 </playground>
