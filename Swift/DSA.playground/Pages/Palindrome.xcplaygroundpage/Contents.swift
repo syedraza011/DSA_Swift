@@ -6,9 +6,9 @@ import Foundation
 //Create a function that checks if a given string is a palindrome (reads the same forwards and backwards).
 
 
-let str = "ma dami'mad am012321"
+let str = "ma dami'mad am12321"
 
-let letters = str.filter { $0.isNumber }.lowercased()
+let letters = str.filter { $0.isLetter }.lowercased()
 print("Filtered: \(letters)")
 let reversedLetters = letters.reversed()
 
