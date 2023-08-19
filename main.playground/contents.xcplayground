@@ -15,5 +15,7 @@
         <page name='RemoveSpacesFromString'/>
         <page name='longestCommonPrefix'/>
         <page name='TitlecaseUsingString'/>
+        <page name='StringAreRotationOfEachOther'/>
+        <page name='StringpatternMatchingKMPAlgo'/>
     </pages>
 </playground>
