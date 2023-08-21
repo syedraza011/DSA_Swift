@@ -34,7 +34,7 @@ print(result)
 //remove number from it
 //remove chars from it
 //use of array
-let strr = "zmHello5t"
+let strr = "zmHello5"
 
 let num = strr.contains(where: {$0.isNumber})
 print(num)
