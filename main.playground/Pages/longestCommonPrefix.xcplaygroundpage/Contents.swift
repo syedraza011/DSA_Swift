@@ -26,7 +26,7 @@ import Foundation
 //    }
 //}
 //
-let inputStrings = "flower floight flour"
+let inputStrings = "floower flooight floour"
 let stringArray = inputStrings.split(separator: " ").map { String($0) }
 
 let commonPrefix = longestCommonPrefix(stringArray)

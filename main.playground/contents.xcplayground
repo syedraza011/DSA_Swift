@@ -17,5 +17,6 @@
         <page name='TitlecaseUsingString'/>
         <page name='StringAreRotationOfEachOther'/>
         <page name='StringpatternMatchingKMPAlgo'/>
+        <page name='RemovingDuplicatesFromSortedArray'/>
     </pages>
 </playground>
