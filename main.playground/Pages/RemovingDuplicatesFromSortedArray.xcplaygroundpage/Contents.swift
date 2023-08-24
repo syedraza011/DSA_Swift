@@ -24,3 +24,24 @@ func removeDuplicates (_ arr: [Int])-> [Int] {
     return result
 }
 print(removeDuplicates(arr))
+
+ //now 2d method without using extra array and without return an array as well
+
+var nums = [1, 1,2]
+
+func removingDuplicates(_ nums: inout [Int])->Int {
+    var count  = 0
+    var i = 0
+    while i+1 < nums.count {
+        if nums[i] == nums[i + 1] {
+            nums.remove(at: i + 1)
+        } else {
+            i += 1
+            count += 1
+        }
+    }
+    return count
+}
+
+removingDuplicates(&nums)
+print(nums)
