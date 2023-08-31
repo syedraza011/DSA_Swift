@@ -18,5 +18,6 @@
         <page name='StringAreRotationOfEachOther'/>
         <page name='StringpatternMatchingKMPAlgo'/>
         <page name='RemovingDuplicatesFromSortedArray'/>
+        <page name='DragonEggReptile'/>
     </pages>
 </playground>
