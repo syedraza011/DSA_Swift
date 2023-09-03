@@ -21,5 +21,6 @@
         <page name='DragonEggReptile'/>
         <page name='CurrentNextCrop'/>
         <page name='addedCodeToAvoidMemoryLeaks'/>
+        <page name='checkToSeeIfSubStringEXIST'/>
     </pages>
 </playground>
