@@ -19,5 +19,7 @@
         <page name='StringpatternMatchingKMPAlgo'/>
         <page name='RemovingDuplicatesFromSortedArray'/>
         <page name='DragonEggReptile'/>
+        <page name='CurrentNextCrop'/>
+        <page name='addedCodeToAvoidMemoryLeaks'/>
     </pages>
 </playground>
